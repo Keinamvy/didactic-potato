@@ -1,0 +1,28 @@
+{
+  "name": "aternos",
+  "version": "1.0.0",
+  "description": "nothing changed",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Keinamvy/aternosbanbot.git"
+  },
+  "keywords": [
+    "nothing"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Keinamvy/aternosbanbot/issues"
+  },
+  "homepage": "https://github.com/Keinamvy/aternosbanbot#readme",
+  "dependencies": {
+    "config": "^3.3.7",
+    "express": "^4.17.3",
+    "fs": "^0.0.1-security",
+    "mineflayer": "^4.2.0"
+  }
+}
